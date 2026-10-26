@@ -1,0 +1,6 @@
+# Core model dependencies only; not a reproduction environment.
+numpy
+scikit-learn
+pyriemann
+torch
+mamba-ssm
